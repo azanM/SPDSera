@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\intikom\Documents\SERA\publishspd</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="app.config">
+      <publishTime>08/27/2019 17:05:11</publishTime>
+    </File>
+    <File Include="approvalSPD.ashx">
+      <publishTime>08/27/2019 17:05:11</publishTime>
+    </File>
+    <File Include="ApprovalSPDUrl.ashx">
+      <publishTime>08/27/2019 17:05:11</publishTime>
+    </File>
+    <File Include="ApprovalUrl.ashx">
+      <publishTime>08/27/2019 17:05:11</publishTime>
+    </File>
+    <File Include="App_Themes/Main/Site.css">
+      <publishTime>08/27/2019 17:05:12</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>08/27/2019 17:06:39</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.pdb">
+      <publishTime>08/27/2019 17:06:41</publishTime>
+    </File>
+    <File Include="bin/AntiXSSLibrary.dll">
+      <publishTime>08/27/2019 17:06:43</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:41</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.Core.dll">
+      <publishTime>08/27/2019 17:05:13</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.Core.pdb">
+      <publishTime>08/27/2019 17:06:46</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.dll">
+      <publishTime>08/27/2019 17:05:13</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.CrystalReports.Engine.dll">
+      <publishTime>08/27/2019 17:06:47</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportSource.dll">
+      <publishTime>08/27/2019 17:06:47</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Shared.dll">
+      <publishTime>08/27/2019 17:06:48</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Web.dll">
+      <publishTime>08/27/2019 17:06:48</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:41</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:41</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.v14.1.dll">
+      <publishTime>08/27/2019 17:05:14</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Office.v14.1.Core.dll">
+      <publishTime>08/27/2019 17:05:14</publishTime>
+    </File>
+    <File Include="bin/DevExpress.RichEdit.v14.1.Core.dll">
+      <publishTime>08/27/2019 17:05:14</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.ASPxEditors.v11.2.dll">
+      <publishTime>08/27/2019 17:05:14</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.v11.2.dll">
+      <publishTime>08/27/2019 17:05:15</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Web.v14.1.dll">
+      <publishTime>08/27/2019 17:05:15</publishTime>
+    </File>
+    <File Include="bin/DropDownCheckBoxes.dll">
+      <publishTime>08/27/2019 17:05:15</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/27/2019 17:05:16</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>08/27/2019 17:05:16</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:42</publishTime>
+    </File>
+    <File Include="bin/eSPD.dll">
+      <publishTime>11/14/2019 19:05:08</publishTime>
+    </File>
+    <File Include="bin/eSPD.pdb">
+      <publishTime>11/14/2019 19:05:08</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:42</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:42</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:42</publishTime>
+    </File>
+    <File Include="bin/HtmlSanitizationLibrary.dll">
+      <publishTime>08/27/2019 17:06:43</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:42</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:42</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:43</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Tools.Components.dll">
+      <publishTime>08/27/2019 18:16:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll">
+      <publishTime>08/27/2019 18:16:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Tools.Excel.v4.0.Utilities.dll">
+      <publishTime>08/27/2019 17:05:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>08/27/2019 17:06:51</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.DataVisualization.dll">
+      <publishTime>08/27/2019 17:06:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.ProcessingObjectModel.dll">
+      <publishTime>08/27/2019 17:06:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>02/20/2011 04:40:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll">
+      <publishTime>08/27/2019 18:16:11</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/27/2019 17:06:55</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.pdb">
+      <publishTime>08/27/2019 17:06:55</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:43</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:43</publishTime>
+    </File>
+    <File Include="bin/Quartz.dll">
+      <publishTime>08/27/2019 17:07:01</publishTime>
+    </File>
+    <File Include="bin/Quartz.pdb">
+      <publishTime>08/27/2019 17:07:01</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:43</publishTime>
+    </File>
+    <File Include="bin/SanitizerProviders.dll">
+      <publishTime>08/27/2019 17:06:43</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:44</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:44</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>08/27/2019 17:06:44</publishTime>
+    </File>
+    <File Include="ClaimApprovalUrl.ashx">
+      <publishTime>08/27/2019 17:05:27</publishTime>
+    </File>
+    <File Include="Core/espdTamplate.txt">
+      <publishTime>08/27/2019 17:05:28</publishTime>
+    </File>
+    <File Include="CSS.css">
+      <publishTime>08/27/2019 17:05:31</publishTime>
+    </File>
+    <File Include="EmailTemplate/ApprovalClaim.txt">
+      <publishTime>09/18/2019 01:06:58</publishTime>
+    </File>
+    <File Include="EmailTemplate/ApprovalCompleteClaim.txt">
+      <publishTime>09/18/2019 01:20:38</publishTime>
+    </File>
+    <File Include="EmailTemplate/ApprovalRevisiSPD.txt">
+      <publishTime>09/18/2019 02:24:15</publishTime>
+    </File>
+    <File Include="EmailTemplate/ApprovalRevisiSPDADH.txt">
+      <publishTime>09/18/2019 02:20:52</publishTime>
+    </File>
+    <File Include="EmailTemplate/ApprovalSPD.txt">
+      <publishTime>08/27/2019 17:05:32</publishTime>
+    </File>
+    <File Include="EmailTemplate/ApprovalSPDADH.txt">
+      <publishTime>08/27/2019 17:05:32</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiBudgetExceeded.txt">
+      <publishTime>08/27/2019 17:05:32</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiCancelClaim.txt">
+      <publishTime>08/27/2019 17:05:32</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiCancelSPD.txt">
+      <publishTime>08/27/2019 17:05:33</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiClaim.txt">
+      <publishTime>08/27/2019 17:05:33</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiCompleteClaim.txt">
+      <publishTime>09/19/2019 11:07:29</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiPencarianTiket.txt">
+      <publishTime>08/27/2019 17:05:33</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiRevisiSPD.txt">
+      <publishTime>09/18/2019 02:35:33</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiSPD - Copy.txt">
+      <publishTime>08/27/2019 17:05:33</publishTime>
+    </File>
+    <File Include="EmailTemplate/InformasiSPD.txt">
+      <publishTime>08/27/2019 17:05:33</publishTime>
+    </File>
+    <File Include="EmailTemplate/NotifExpired.txt">
+      <publishTime>08/27/2019 17:05:33</publishTime>
+    </File>
+    <File Include="errorLog.aspx">
+      <publishTime>08/27/2019 17:05:33</publishTime>
+    </File>
+    <File Include="ESS.dbml">
+      <publishTime>10/22/2019 11:35:18</publishTime>
+    </File>
+    <File Include="FormError.aspx">
+      <publishTime>08/27/2019 17:05:35</publishTime>
+    </File>
+    <File Include="formInvoice.aspx">
+      <publishTime>08/27/2019 17:05:36</publishTime>
+    </File>
+    <File Include="frmAssignRole.aspx">
+      <publishTime>08/27/2019 17:05:36</publishTime>
+    </File>
+    <File Include="frmClaimApproval.aspx">
+      <publishTime>08/27/2019 17:05:37</publishTime>
+    </File>
+    <File Include="frmClaimInput.aspx">
+      <publishTime>08/27/2019 17:05:37</publishTime>
+    </File>
+    <File Include="frmFinanceApp.aspx">
+      <publishTime>08/27/2019 17:05:38</publishTime>
+    </File>
+    <File Include="frmGLAccount.aspx">
+      <publishTime>08/27/2019 17:05:38</publishTime>
+    </File>
+    <File Include="frmHome.aspx">
+      <publishTime>08/27/2019 17:05:38</publishTime>
+    </File>
+    <File Include="frmLogin.aspx">
+      <publishTime>08/27/2019 17:05:39</publishTime>
+    </File>
+    <File Include="frmMasterKaryawan.aspx">
+      <publishTime>08/27/2019 17:05:39</publishTime>
+    </File>
+    <File Include="frmMsAngkutan.aspx">
+      <publishTime>08/27/2019 17:05:39</publishTime>
+    </File>
+    <File Include="frmMsKeperluan.aspx">
+      <publishTime>08/27/2019 17:05:40</publishTime>
+    </File>
+    <File Include="frmMsPlafon.aspx">
+      <publishTime>08/27/2019 17:05:40</publishTime>
+    </File>
+    <File Include="frmMsPlafonGolongan.aspx">
+      <publishTime>08/27/2019 17:05:40</publishTime>
+    </File>
+    <File Include="frmMsRole.aspx">
+      <publishTime>08/27/2019 17:05:41</publishTime>
+    </File>
+    <File Include="frmReportClaim.aspx">
+      <publishTime>08/27/2019 17:05:42</publishTime>
+    </File>
+    <File Include="frmReportClaimSPD.aspx">
+      <publishTime>08/27/2019 17:05:42</publishTime>
+    </File>
+    <File Include="frmReportCrystalClaim.aspx">
+      <publishTime>08/27/2019 17:05:43</publishTime>
+    </File>
+    <File Include="frmReportCrystalSPD.aspx">
+      <publishTime>08/27/2019 17:05:43</publishTime>
+    </File>
+    <File Include="frmReportSLA.aspx">
+      <publishTime>08/27/2019 17:05:44</publishTime>
+    </File>
+    <File Include="frmReportSPD.aspx">
+      <publishTime>08/27/2019 17:05:44</publishTime>
+    </File>
+    <File Include="frmRequestInput.aspx">
+      <publishTime>08/27/2019 17:05:44</publishTime>
+    </File>
+    <File Include="frmRequestPrint.aspx">
+      <publishTime>08/27/2019 17:05:45</publishTime>
+    </File>
+    <File Include="frmRequestView.aspx">
+      <publishTime>08/27/2019 17:05:45</publishTime>
+    </File>
+    <File Include="frmRptClaimAll.aspx">
+      <publishTime>08/27/2019 17:05:45</publishTime>
+    </File>
+    <File Include="frmRptSPD.aspx">
+      <publishTime>08/27/2019 17:05:46</publishTime>
+    </File>
+    <File Include="frmRptSPDAll.aspx">
+      <publishTime>08/27/2019 17:05:46</publishTime>
+    </File>
+    <File Include="frmSPDExtend.aspx">
+      <publishTime>08/27/2019 17:05:47</publishTime>
+    </File>
+    <File Include="frmSPDFinder.aspx">
+      <publishTime>08/27/2019 17:05:47</publishTime>
+    </File>
+    <File Include="frmUserManual.aspx">
+      <publishTime>08/27/2019 17:05:47</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/27/2019 17:05:49</publishTime>
+    </File>
+    <File Include="Hardship.aspx">
+      <publishTime>08/27/2019 17:05:49</publishTime>
+    </File>
+    <File Include="Img/al_loading.gif">
+      <publishTime>08/27/2019 17:05:49</publishTime>
+    </File>
+    <File Include="Login.Master">
+      <publishTime>08/27/2019 17:05:50</publishTime>
+    </File>
+    <File Include="MasterBackup.aspx">
+      <publishTime>08/27/2019 17:05:50</publishTime>
+    </File>
+    <File Include="MasterPage.Master">
+      <publishTime>11/12/2019 10:11:31</publishTime>
+    </File>
+    <File Include="MasterPages.master">
+      <publishTime>08/27/2019 17:05:51</publishTime>
+    </File>
+    <File Include="msADH.aspx">
+      <publishTime>08/27/2019 17:05:51</publishTime>
+    </File>
+    <File Include="msCostCenter.aspx">
+      <publishTime>08/27/2019 17:05:52</publishTime>
+    </File>
+    <File Include="msKota.aspx">
+      <publishTime>11/12/2019 09:56:42</publishTime>
+    </File>
+    <File Include="msProvinsi.aspx">
+      <publishTime>08/27/2019 17:05:52</publishTime>
+    </File>
+    <File Include="msUser.aspx">
+      <publishTime>08/27/2019 17:05:52</publishTime>
+    </File>
+    <File Include="newAcceptDocument.aspx">
+      <publishTime>08/27/2019 17:05:53</publishTime>
+    </File>
+    <File Include="newAcceptDocument1.aspx">
+      <publishTime>08/27/2019 17:05:53</publishTime>
+    </File>
+    <File Include="NewApprovalTest.aspx">
+      <publishTime>08/27/2019 17:05:54</publishTime>
+    </File>
+    <File Include="newClaimList.aspx">
+      <publishTime>09/17/2019 15:30:31</publishTime>
+    </File>
+    <File Include="newFormClaimInput.aspx">
+      <publishTime>09/17/2019 11:26:39</publishTime>
+    </File>
+    <File Include="newFormHome.aspx">
+      <publishTime>09/11/2019 16:41:44</publishTime>
+    </File>
+    <File Include="newFormRequestDetail.aspx">
+      <publishTime>08/27/2019 17:05:55</publishTime>
+    </File>
+    <File Include="newFormRequestDetailClaim.aspx">
+      <publishTime>08/27/2019 17:05:55</publishTime>
+    </File>
+    <File Include="newFormRequestInput.aspx">
+      <publishTime>09/24/2019 09:56:24</publishTime>
+    </File>
+    <File Include="newFormRequestList.aspx">
+      <publishTime>08/27/2019 17:05:56</publishTime>
+    </File>
+    <File Include="newUM.aspx">
+      <publishTime>08/27/2019 17:05:57</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/27/2019 17:06:24</publishTime>
+    </File>
+    <File Include="ResendNotification.aspx">
+      <publishTime>08/27/2019 17:06:25</publishTime>
+    </File>
+    <File Include="scConfig.aspx">
+      <publishTime>08/27/2019 17:06:26</publishTime>
+    </File>
+    <File Include="Script/jquery-1.10.2.min.js">
+      <publishTime>08/27/2019 17:06:26</publishTime>
+    </File>
+    <File Include="Script/jquery-1.12.4.js">
+      <publishTime>08/27/2019 17:06:26</publishTime>
+    </File>
+    <File Include="Script/jquery-ui.js">
+      <publishTime>08/27/2019 17:06:27</publishTime>
+    </File>
+    <File Include="Script/jquery.datetimepicker.css">
+      <publishTime>08/27/2019 17:06:27</publishTime>
+    </File>
+    <File Include="Script/jquery.datetimepicker.full.js">
+      <publishTime>08/27/2019 17:06:27</publishTime>
+    </File>
+    <File Include="Script/jquery.datetimepicker.full.min.js">
+      <publishTime>08/27/2019 17:06:27</publishTime>
+    </File>
+    <File Include="Script/jquery.datetimepicker.min.css">
+      <publishTime>08/27/2019 17:06:27</publishTime>
+    </File>
+    <File Include="Script/jquery.datetimepicker.min.js">
+      <publishTime>08/27/2019 17:06:27</publishTime>
+    </File>
+    <File Include="Script/jquery.js">
+      <publishTime>08/27/2019 17:06:27</publishTime>
+    </File>
+    <File Include="Script/select2.min.js">
+      <publishTime>08/27/2019 17:06:27</publishTime>
+    </File>
+    <File Include="Style/Banner-ESPD.jpg">
+      <publishTime>08/27/2019 17:06:29</publishTime>
+    </File>
+    <File Include="Style/claim.png">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/home.png">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/icons8-cancel-20.png">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/icons8-edit-20.png">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/icons8-go-back-20.png">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/icons8-save-20.png">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/images/ui-icons_444444_256x240.png">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/images/ui-icons_555555_256x240.png">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/jquery-ui.css">
+      <publishTime>08/27/2019 17:06:30</publishTime>
+    </File>
+    <File Include="Style/select2-spinner.gif">
+      <publishTime>08/27/2019 17:06:31</publishTime>
+    </File>
+    <File Include="Style/select2.css">
+      <publishTime>08/27/2019 17:06:31</publishTime>
+    </File>
+    <File Include="Style/select2.png">
+      <publishTime>08/27/2019 17:06:31</publishTime>
+    </File>
+    <File Include="Style/select2x2.png">
+      <publishTime>08/27/2019 17:06:31</publishTime>
+    </File>
+    <File Include="Style/SERA.jpg">
+      <publishTime>08/27/2019 17:06:31</publishTime>
+    </File>
+    <File Include="Style/style.css">
+      <publishTime>08/27/2019 17:06:31</publishTime>
+    </File>
+    <File Include="UserManual/User Manual E-SPD 2015.pdf">
+      <publishTime>08/27/2019 17:06:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/11/2019 17:33:18</publishTime>
+    </File>
+    <File Include="Web.config.bak">
+      <publishTime>08/27/2019 17:06:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ESS">
+  <DataContextMoniker Name="/ESSDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a2b1b923-da18-497a-b4f1-b0bd852dff41" absoluteBounds="3.5, 0.75, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/ESSDataContext/TrxAttendance" />
+      <nestedChildShapes>
+        <elementListCompartment Id="831ffb09-77a2-4917-b229-5c3cdf42dcd2" absoluteBounds="3.515, 1.21, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6748eb40-1cbe-4e8d-a83f-4ade81212582" absoluteBounds="0.5, 0.75, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/ESSDataContext/TrxCiCo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aa989501-6291-4d44-a4a1-7c66daa331a3" absoluteBounds="0.51500000000000012, 1.21, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
